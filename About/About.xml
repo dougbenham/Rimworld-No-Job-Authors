@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>NoJobAuthors</name>
+	<packageId>Doug.NoJobAuthors</packageId>
+	<name>No Job Authors</name>
 	<author>Doug</author>
-	<targetVersion>1.0.0</targetVersion>
 	<description></description>
+	<supportedVersions>
+		<li>1.1</li>
+	</supportedVersions>
+	<modDependencies>
+		<li>
+			<packageId>UnlimitedHugs.HugsLib</packageId>
+			<displayName>HugsLib</displayName>
+			<downloadUrl>https://ludeon.com/forums/index.php?topic=28066.0</downloadUrl>
+		</li>
+	</modDependencies>
 </ModMetaData>
